@@ -1,0 +1,11 @@
+.sidebar{
+    @apply w-[30%] h-full  bg-blue-600/90 text-white flex flex-col absolute sm:hidden  transition ease-in-out duration-1000 rounded 
+}
+
+.list{
+    @apply w-full
+}
+
+.listItem{
+    @apply p-3
+}

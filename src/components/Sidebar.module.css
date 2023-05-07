@@ -1,0 +1,11 @@
+.sidebar{
+    @apply w-[15%] h-[95vh]  bg-blue-950/90 text-white flex flex-col justify-center
+}
+
+.list{
+    @apply w-full
+}
+
+.listItem{
+    @apply p-3
+}

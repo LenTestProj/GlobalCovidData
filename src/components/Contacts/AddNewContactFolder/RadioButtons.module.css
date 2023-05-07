@@ -1,0 +1,11 @@
+.container{
+ @apply w-[60%] flex flex-col pl-1
+}
+
+.input{
+ @apply w-4 h-4 text-green-600 md:mt-1 mt-[1%]
+}
+
+.label{
+   @apply w-full pl-5
+}

@@ -1,0 +1,11 @@
+.wholePage{
+    @apply text-blue-600 w-full h-[95vh] flex flex-col 
+}
+
+.headerPage{
+    @apply w-full  flex items-center justify-center
+}
+
+.bodyPage{
+    @apply w-full
+}

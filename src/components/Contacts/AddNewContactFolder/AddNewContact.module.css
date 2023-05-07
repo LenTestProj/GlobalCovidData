@@ -1,0 +1,15 @@
+.container{
+  @apply w-[65%] top-4 mt-[4vh]  md:w-[50%] lg:w-[40%]
+}
+
+.form{
+@apply  py-4 px-4 text-[80%] sm:text-[110%] border-2 border-blue-500
+}
+
+.input{
+ @apply bg-gray-50 border border-gray-300 w-[60%] rounded 
+}
+
+.button{
+ @apply text-white font-bold py-1 px-2 rounded sm:w-[30%] sm:h-[5vh]
+}

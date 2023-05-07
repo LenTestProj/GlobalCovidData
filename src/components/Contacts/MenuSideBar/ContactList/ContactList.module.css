@@ -1,0 +1,19 @@
+.Button{
+ @apply text-white font-bold py-1 px-1 rounded w-[20%] md:w-[80%] h-7 text-[80%] mx-1
+}
+
+.listContainer{
+ @apply w-[70%] mt-[7vh]  p-2 flex justify-center
+}
+
+.listElement{
+ @apply border-2 border-purple-900 rounded-md overflow-auto py-2 px-1 flex flex-col md:flex-row md:justify-between
+}
+
+.firstLastActive{
+  @apply flex items-baseline justify-between text-[90%] w-full md:w-[50%] font-bold md:pt-2
+}
+
+.firstLast{
+ @apply flex w-[50%] overflow-auto md:text-[120%]
+}
